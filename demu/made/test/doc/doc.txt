@@ -1,0 +1,3 @@
+la doc est un fichier mis dans le dossier de doc ( / quelquechose 
+doc/nom-du-packet/ ), avec de maniére recommandé un fichier index.html, 
+index.txt ou index.md.

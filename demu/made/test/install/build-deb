@@ -1,0 +1,5 @@
+#debendancie for the build
+g++
+gcc
+#si absent de la machine, telegearger, construire et supprimer apprés 
+post-install.sh
